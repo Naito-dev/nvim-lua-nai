@@ -1,4 +1,4 @@
-# nvim-lua-nai
+# Nvim Dotfiles with lua
 
-I upgrade my init.vim to init.lua  
-i not make the tutorial, is soo long time to explication this hahaha 
+upgraded my init.vim to init.lua  
+
